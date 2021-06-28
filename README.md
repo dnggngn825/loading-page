@@ -9,7 +9,7 @@ $ git clone https://github.com/dnggngn825/loading-page.git
 
 ### Test
 
-[Code Snippet in JS](/spinner-loading/image/js file.png)
+![Code Snippet in JS](/spinner-loading/image/jsfile.png)
 
 ### Outcome
 - Spinner Loading

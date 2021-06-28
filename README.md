@@ -9,7 +9,8 @@ $ git clone https://github.com/dnggngn825/loading-page.git
 
 ### Test
 
-![Code Snippet in JS](/spinner-loading/image/jsfile.png =250x)
+
+<img src="/spinner-loading/image/jsfile.png" width="200">
 
 ### Outcome
 - Spinner Loading

@@ -1,5 +1,10 @@
 # loading-page
 
+## How to use it
+### Clone this repo
+
+### Test
+
 ### Outcome
 - Spinner Loading
 
